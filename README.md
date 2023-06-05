@@ -1,4 +1,4 @@
-# Projeto-sortear-número-aleatório :rocket:
+# Projeto-sortear-número :rocket:
 
 <p>Projeto realizado para realizar sorteio de numeros aleatórios!!  </p>
 <br>
